@@ -1,5 +1,5 @@
 # Site settings
-title: "H"
+title: "小黄"
 email: jacob@jacobtomlinson.co.uk
 description: "A dark blog theme for Jekyll."
 baseurl: ""
@@ -15,6 +15,7 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: purehzj
 github_username:  jacobtomlinson
+wordpress_link: http://192.241.220.247/
 linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
 google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
 stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
