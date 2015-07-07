@@ -5,7 +5,7 @@
 @import url(http://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 
 /* Colours */
-$twitter:        #6dabda;
+$wordpress:        #6dabda;
 $linkedin:       #2b77b1;
 $google-plus:    #c95644;
 $github:         #f6c2a4;
@@ -176,8 +176,8 @@ ul {
 		transition: 0.3s;
 	}
 
-	.fa-twitter:hover {
-		color: $twitter;
+	.fa-wordpress:hover {
+		color: $wordpress;
 	}
 
 	.fa-linkedin:hover {
