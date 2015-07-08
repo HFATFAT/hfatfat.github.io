@@ -15,9 +15,9 @@ post_limit: 5
 # Social usernames/URLs
 github_username:  HFATFAT
 wordpress_link: http://192.241.220.247/
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+behance_link: https://www.behance.net/hfatfat
 google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+stackoverflow_link: hhttp://stackoverflow.com/users/5091920/hfatfat
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
