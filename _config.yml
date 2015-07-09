@@ -19,7 +19,7 @@ google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
 stackoverflow_link: http://stackoverflow.com/users/5091920/hfatfat
 
 # Footer
-footer_left: "Theme By <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Theme by <i class=\"fa fa-heart\"></i> <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
