@@ -7,7 +7,6 @@ url: "http://carte-noire.jacobtomlinson.co.uk/"
 title_description: "是程序设计，又是UI/UE设计"
 title_image: "http://192.241.220.247/wp-content/uploads/2015/07/me.jpg"
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
 github_repository: https://github.com/jacobtomlinson/carte-noire
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
@@ -20,7 +19,7 @@ google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
 stackoverflow_link: http://stackoverflow.com/users/5091920/hfatfat
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Theme By <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
