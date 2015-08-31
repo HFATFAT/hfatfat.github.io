@@ -18,7 +18,6 @@ Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.image);
 //(BitmapDrawable)getResources().getDrawable(R.drawable.image).getBitmap();
     int width=bitmap.getWidth();  
 	int height=bitmap.getHeight();  
-}
 </pre>
 
 ###设置方法：
