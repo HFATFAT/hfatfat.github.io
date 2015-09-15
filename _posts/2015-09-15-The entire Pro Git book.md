@@ -11,7 +11,7 @@ tags:
 ---
 
 
-####The entire Pro Git book--http://www.git-scm.com/book/zh/v2<http://www.git-scm.com/book/zh/v2>
+####The entire Pro Git book--http://www.git-scm.com/book/zh/v2
 
 
 
