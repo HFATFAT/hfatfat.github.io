@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Google Samples on GitHub
-date:       2015-09-15 15:23:10
+title:      The entire Pro Git book
+date:       2015-09-15 13:15:25
 author:     HFF  
-summary:    Google Samples on GitHub
+summary:    The entire Pro Git book
 categories: jekyll
 thumbnail:  heart
 tags:
