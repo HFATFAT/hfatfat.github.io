@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      The entire Pro Git book
+title:      Google Samples
 date:       2015-09-15 13:15:25
 author:     HFF  
-summary:    The entire Pro Git book
+summary:    Google Samples
 categories: jekyll
 thumbnail:  heart
 tags:
